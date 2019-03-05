@@ -43,8 +43,8 @@ Tager vi til Allinge eller Almindingen
 Di kom alt klokkan to
 De kom allerede klokken to
 
-Du e så ambostuer.  Hâr du løvved ?
-Du er så forpustet. Har du løbet
+Du e så ambostuer.  Hâr du løvved?
+Du er så forpustet. Har du løbet?
 
 Hanj ammar sin fâr
 Han ligner sin far
@@ -566,7 +566,7 @@ Bonninj ska lava  enj bølk
 Bonden skal lave en halvvæg i loen
 
 Find vajinj te Bømpestælinj
-Find vejen til …..
+Find vejen til .....
 
 Va dâ e´ed
 Hvilken dag er det
@@ -751,17 +751,11 @@ Jeg har et dussin æg
 Kârinj går å dalkes
 Manden går sløvt
 
-
-
-
 Des e ræti dâmajn idâ
 Det er rigtig morgentøvejr idag
 
 Boninj har manga dâuestola på mârken
 Bonden har mange kornblomster på marken
-
-
-
 
 Sikkje enj diggedâr
 Sikke en underlig gebærden
@@ -832,14 +826,8 @@ Bonden har et beplantet mark skel
 Han e ed dundra
 Hun er et kraftigt kvindfolk
 
-
-
-
 Vagaboninj gjik mæ enj gjønkel
 Vagabonden gik med en bylt
-
-
-
 
 Hon tov enj niva salt
 Hun tog lidt salt mellem 2 fingre
@@ -944,7 +932,7 @@ Hanj e enj værra flabbatass
 Han er en værre uforskammet person
 
 Koss vor e du sjidinj om flarkarna.  Hâr du vad i dynjapusinj ?
-Kors hvor er du beskidt på fødderne. Har du været i….
+Kors hvor er du beskidt på fødderne. Har du været i....
 
 Hønsen  gjik å flarkada  for å hitta madka
 Hønsene gik og kradsede i jorden for at finde mad
@@ -1165,111 +1153,6 @@ Efter sommer kommer efterår
 Honj e go te å fissla
 Hun er god til at sladre
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Dær e frejera i krågana
 Der er spindelvæv i krogene
 
@@ -1352,7 +1235,7 @@ Jâ hâr nok å gjorra
 Jeg har nok at gøre
 
 Du ska gjorra va jâ sajer
-
+Du skal gøre hvad jeg siger
 
 I mârn ska vi gjorra ota,  vi ska ju ner te dâmparinj å tâ mod fâr
 I morgen skal vi stå tidligt op, vi skal til færgen og tage imod far
@@ -1439,7 +1322,7 @@ Jâ hâr vaskad goll
 Jeg har vasket gulv
 
 E du svøltij. Naj gonn,  jâ hâr ævent fåd mâd
-Er du sulten. Nej såmæm så… Jeg har lige fået mad
+Er du sulten. Nej såmæm så... Jeg har lige fået mad
 
 Hon e gosinjad
 Hun er godhjertet
@@ -1488,78 +1371,6 @@ Børnene elskede at gynge
 
 Bællastympinj e lid gångstogga
 Barnet er lidt vaklende
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Se enj gubba. Gubban kommer å tar daj
 Se en olding. Uhyret kommer og tager dig
@@ -1786,75 +1597,6 @@ Han tog sine håndlagere med til gilde
 Grântræ`ed gâv hårpajs fro saj
 Grantræet gav harpiks fra sig
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Gjæstarna e i faggana
 Gæsterne er på vej
 
@@ -1998,9 +1740,6 @@ Havde du Jomfrum Krum i skolen
 
 Hank kjøbte jomfrustykjed
 Han købte arealet i Ibsker
-
-
-
 
 Nu târ vi te jylahalm
 Nu tager vi til julegilde
@@ -2290,12 +2029,6 @@ Sjømanden har den rette kurs
 Koss i krokka vor hon skavar saj
 Kors i krukke hvor hun skaber sig
 
-Koss i lidemaj væl vår fâr va nagger
-
-
-Koss i læl,  vor hanj då skavada saj
-
-
 Horrijn e kossinj i fingra å tæer
 Drengen er frossen i fingre og tæer
 
@@ -2373,120 +2106,6 @@ Drengen fik en mælke ret (grød)
 
 De gijk te kaperøllika
 De gik til folkedans
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Hâr du hørt, a Lârs Pærska hâr fåd ed lided
 Har du hørt at Lars Pærska har fået et lille barn
@@ -2656,48 +2275,6 @@ Der blev du lang i ansigtet, va
 The vanned e lårlønkad
 The vandet er lunken
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ska vi ikkje gå i marken i autan, moer ?
 Skal vi ikke gå på besøg i aften, mor?
 
@@ -2848,9 +2425,6 @@ Mangler vi noget
 Fiskaraen hadde sit majnsa
 Fiskeren havde sit sildegarn
 
-
-
-
 Hanj lavade ed maksel
 Han lavede et klamhuggerarbejde
 
@@ -2859,36 +2433,6 @@ De gik uden for almindelig vej
 
 De holt meieradrønt ætter høstan
 De holdt gilde for mejerne efter høsten
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Nâboarna nabbas hela tiden
 Naboerne mundhugges hele tiden
@@ -3034,9 +2578,6 @@ Det var lige med nød og næppe
 Fiskarejn hadde nidder
 Fiskeren havde garn til sildenet
 
-
-
-
 Fâr tâ´r  enj nul
 Far tager en blund
 
@@ -3115,14 +2656,8 @@ Oasen er ved Hammeren
 Bâra olagrân
 Bare ganske lidt
 
-
-
-
 E dær vann i ed Olja
 Er der vand i et trug
-
-
-
 
 Hon fikj ed par syp å ble hel oppendauad
 Hun fik et par snaps og blev helt vild
@@ -3135,9 +2670,6 @@ De er nogle urostifter
 
 Ded e bâra ed orstæw
 Det er bare et mundheld
-
-
-
 
 Enj paja tjæner på enj går
 En pige tjener på en gård
@@ -3227,7 +2759,7 @@ Hon e nâd så sâbrians prekkevert.
 Hun er noget så fandens nøjeregnene
 
 Holl du dinj kjæft,  dit prigg
-Hold din kæft din ….
+Hold din kæft din ....
 
 Va står du dær å priggar i jorn for ?
 Hvad står du der og prikker i jorden for
@@ -3312,9 +2844,6 @@ Hun fik et slagtilfælde
 
 Hanj e majet prunt
 Han er meget punktlig
-
-
-
 
 Dær en enj del puggemâd i sjø`en
 Der er meget andemad i søen
@@ -3466,9 +2995,6 @@ Det var en kold mørk nat
 Bællana skulje stå i råz
 Børnene skulle stå i række
 
-Hon e enj værra rallika
-
-
 Hon e en raspa
 Hun er en fræk uanstændig kvinde
 
@@ -3480,9 +3006,6 @@ Kan du rive bladene sammen
 
 Hon e enj ravina
 Hun er en nar
-
-
-
 
 Hon va forst redaja
 Hun var først husholderske
@@ -3580,8 +3103,8 @@ Pyt værre med det
 Ska vi sjikka ed brev mæ paastinj
 Skal vi sende et brev med posten
 
-Se… enj sjinjara
-Se… en sommerfugl
+Se... enj sjinjara
+Se... en sommerfugl
 
 Ska vi sjyda ætte røtta
 Skal vi skyde efter rotter
@@ -3627,9 +3150,6 @@ Der sidder en skade på tørresnoren
 
 Hon e go å komma mæ skakhâzer
 Hun er god til at komme med stikpiller
-
-Peddersens konna e en varre skâl.
-
 
 Vil du smida kantofleskâlana ud.
 Vil du smide kartoffelskrællene ud
@@ -3712,7 +3232,7 @@ Isen er glat
 Jâ e så slikkuer om awtan
 Jeg er så slikken om aften
 
-Lille fâr… kanj du slykkja lyzed
+Lille fâr... kanj du slykkja lyzed
 Lille far.. Kan du slukke lyset
 
 Piblinj slænt på izing
@@ -3839,7 +3359,7 @@ Hon e sjøg. Tempraturejn e stijannes
 Hun er syg. Temperaturen er stigende
 
 Se.. Enj fallan stjærna
-Se… en faldende stjerne
+Se... en faldende stjerne
 
 Nattens stjærnor e klâra
 Nattens stjerner er klare
@@ -3881,7 +3401,7 @@ Fâr tjøbta nya stævla te bællana
 Far købte nye støvler til børnene
 
 Ævv.. Dær e så majet stæw
-Æv… Der er så meget støv
+Æv... Der er så meget støv
 
 Hanj satta enj stølpa i jorn
 Han satte en stolpe i jorden
@@ -3913,9 +3433,6 @@ Husets fodmur skal være sort
 Fâr e så glâ ve svårtepølsa
 Far er så glad for blodpølse
 
-Horrasyrkinj skâr saj i fingerinj å gâ saj te å vræla
-
-
 Ded e væl nok enj pen syzlakonna,
 Det er vel nok en pæn snurretop
 
@@ -3927,9 +3444,6 @@ Gå nu i seng, lille far
 
 Bællana fångada særissa`er
 Børnene fangede fårekyllinger
-
-Jâ vil gå hæn te Koffeds å kjøvva maj ed grân sættekatofler,  å så kanj vi sætta dom i mârn
-
 
 Fâr ska hâ lid sæwn
 Far skal have lidt søvn
@@ -3953,7 +3467,7 @@ Hon fijk enj rinj å søll
 Hun fik en ring af sølv
 
 Kon.. Hâr du set mina sølla?
-Kone… har du set mine  seler
+Kone... har du set mine  seler
 
 Jâ hâr vad hall sømpel hela vinjterinj
 Jeg har været halv dårlig hele vinteren
@@ -3997,9 +3511,6 @@ Kan det flytte sig
 Mâdinj e sjænder
 Maden er spoleret
 
-
-
-
 Hon ka skâra omm lige pluseli
 Hun kan skifte sind lige pludselig
 
@@ -4020,9 +3531,6 @@ Far tog den sidste høstlæs fra marken
 
 Skrønturinj du frå skolan, horra.
 Skulker du fra skolen, dreng
-
-
-
 
 Du ska ikkje sluna
 Du skal ikke hænge med hoved
@@ -4083,9 +3591,6 @@ Hestene gik på et fugtugt sted på marken
 
 Bondinj ville ikkje hâ svâledrikka
 Bonden ville ikke have tyndt, dårligt øl
-
-
-
 
 Pajan fik sæwlilja å horranj
 Pigen fik blå iris af drengen
@@ -4282,9 +3787,6 @@ Mor bagte risengrynskage
 Du tâ´r di unjarna
 Du tager de underste
 
-
-
-
 Hon e så unøtta
 Hun er så sur og tvær
 
@@ -4453,9 +3955,6 @@ Hesten kan vrinske
 Hon e go te å værkna
 Hun er god til at fremtille tøj
 
-
-
-
 Doktorinj sâ ded e vårspring
 Doktoren siger det er en slags udslæt
 
@@ -4480,8 +3979,8 @@ Hønen lagde et æg
 Hon ka bâra æggla
 Hon kan bare kværulere
 
-Ska vi sava æjle va…
-Skal vi sove eller va…
+Ska vi sava æjle va...
+Skal vi sove eller va...
 
 Nu tar Jâ enj bida æjluabid
 Nu tager jeg en bid formiddagsmad
@@ -4573,2366 +4072,74 @@ Har du fået avisen i dag
 Åreklæppinj e falt å
 Åre beslaget er faldt af
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Bællinj fijk enj krona
 Barnet fik 1 krone
+
+Bællinj fijk enj krona
+Barnet fik én krone
 
 To lyz på ed bor
 2 lys på et bord
 
+To lyz på ed bor
+To lys på et bord
+
 Træ grisa løw runt
 3 grise løb rundt
+
+Træ grisa løw runt
+Tre grise løb rundt
 
 Fira pajaer fjantada
 4 piger fjantede
 
+Fira pajaer fjantada
+Fire piger fjantede
+
 Hanj fijk fæm syp
 Han fik 5 snaps
+
+Hanj fijk fæm syp
+Han fik fem snaps
 
 Kon brøgte sajs kronor på brø
 Konen brugte 6 kroner på brød
 
+Kon brøgte sajs kronor på brø
+Konen brugte seks kroner på brød
+
 Ded e ønte løv nu komma sju
 Det er ikke lys nu kommer 7
+
+Ded e ønte løv nu komma sju
+Det er ikke lys nu kommer syv
 
 Åta tjøs gâ hon
 8 kys gav hun
 
+Åta tjøs gâ hon
+Otte kys gav hun
+
 Ni æble i korrinj
 9 æbler i kurven
+
+Ni æble i korrinj
+Ni æbler i kurven
 
 Ti kanj vi li
 10 kan vi lide
 
+Ti kanj vi li
+Ti kan vi lide
+
 Ælua komma før tal
 11 kommer før tolv
+
+Ælua komma før tal
+Elleve kommer før tolv
+
+Tal komma ætte ælua
+Tolv kommer efter 11
 
 Tal komma ætte ælua
 12 kommer efter 11
@@ -6940,8 +4147,17 @@ Tal komma ætte ælua
 Trætan e vist uhæl
 13 er vist uheld
 
+Trætan e vist uhæl
+Tretten er vist uheld
+
 Sjortan rimar på fjaurtan
 14 rimer på skjorten
+
+Sjortan rimar på fjaurtan
+Fjorten rimer på skjorten
+
+Fæmtan katta på gårinj
+Femten katte på gården
 
 Fæmtan katta på gårinj
 15 katte på gården
@@ -6949,57 +4165,83 @@ Fæmtan katta på gårinj
 Piblinj ble sajstan
 Pigen blev 16
 
+Piblinj ble sajstan
+Pigen blev seksten
+
 Horrinj va søtan
 Drengen var 17
+
+Horrinj va søtan
+Drengen var sytten
 
 Du må stemma når du e atan
 Du må stemme når du er 18
 
+Du må stemma når du e atan
+Du må stemme når du er atten
+
 Nøtan år å alri tjøssad
 19 år og aldrig kysset
+
+Nøtan år å alri tjøssad
+Nitten år og aldrig kysset
 
 Kunje man bâra vara tyva
 Kunne man bare være 20
 
+Kunje man bâra vara tyva
+Kunne man bare være tyve
+
 Træva år å boer stâdij hos moer
 30 år og bor stadig hos mor
 
-Fåra kronor for vystinj… ded e vilt…
-40 kroner for hvalpen… det er vildt
+Træva år å boer stâdij hos moer
+Tredive år og bor stadig hos mor
+
+Fåra kronor for vystinj... ded e vilt
+40 kroner for hvalpen... det er vildt
+
+Fåra kronor for vystinj... ded e vilt
+Fyrre kroner for hvalpen... det er vildt
 
 Ve Haltrøs e man kanjse halvaj i livved
 Ved 50 er man kanske halvejs i livet
 
+Ve Haltrøs e man kanjse halvaj i livved
+Ved halvtreds er man kanske halvejs i livet
+
 Hanj e trøs å lid trætter
 Han er 60 og lidt træt
+
+Hanj e trøs å lid trætter
+Han er tres og lidt træt
 
 Moer fyller halfjærs i dâ
 Mor fylder 70 i dag
 
+Moer fyller halfjærs i dâ
+Mor fylder halvfjerds i dag
+
 Hanj hâr enj bil der e Fers år gammal
 Han har en bil der er 80 år gammel
+
+Hanj hâr enj bil der e Fers år gammal
+Han har en bil der er firs år gammel
 
 45 + 45 gjer halfæms
 45 + 45 giver 90
 
+45 + 45 gjer halfæms
+45 + 45 giver halvfems
+
 Fâr tjøbte enj ny frak te honrada kronor
 Far købte en ny frakke til 100 kroner
+
+Fâr tjøbte enj ny frak te honrada kronor
+Far købte en ny frakke til hundrede kroner
 
 Tuzen e ed stort tâl
 1000 er et stort tal
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Tuzen e ed stort tâl
+Et tusind er et stort tal

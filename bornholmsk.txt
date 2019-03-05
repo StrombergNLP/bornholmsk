@@ -7,7 +7,7 @@ En kånna , - ded bler nokk for siĺĺa ;
 Men jâ går å stjærnar på piblana nu ,
 Forr jâ e nå nu så viĺĺa .
 Hvad , liden Elna ,
-Hvad , min deilia rosa?
+Hvad , min deilia rosa ?
 Ka I hâusa Industrien , frå di goe gamla dâ
 dær va liv i kludana å ajle va så glâ .
 Piblana va søda å måsækken dænj va go
@@ -51,7 +51,7 @@ Men så kom ju stormijn , å lokkommed drev – ja hon kom sku næt ud å sajla 
 Då folk kom te strân , va hon tre mil te sjøs – ejn helu for lânt te å bjæra .
 Di vajtada te ’ na å râvte : Adjøs – God gjive , a huzed må bæra .
 Lârs Annars va kjivå ’ d – hajn stod ær å så , hvor lânt a hans lokkom va hænna .
-Hvem sâbrian kunje om Kjestana spå , a hon fijk så våder ejn ænna?
+Hvem sâbrian kunje om Kjestana spå , a hon fijk så våder ejn ænna ?
 Ja , seddan kom Kjestana altså astâ , å inijn så mera te heijne .
 Så holde di øfrøl i fijle-fæm dâ – å svoverijn hugde et mijne .
 Men tænkj jer : I hijndâjn kom Gelius Lunj te Najse å kunje fortælla
@@ -73,7 +73,7 @@ hæruda mæst starrad saj blinja
 vor e di då hænna – van e ’ ed mon fat
 å va di då bâran hærinja .
 Ja fiskarna hâr dorres hawn for dom sæl
-0m vinjterinj – mæn så te sommar
+Øm vinjterinj – mæn så te sommar
 så e dær torister – bevâre maj væl
 ja dâli dær tusenvis kommer .
 Se hær kommer gamla astâdia pâr
@@ -155,7 +155,7 @@ Kanj du saj maj om du dorra læje nânj stâ kanj se .
 Som sjømanj jâ i monga år på longa fârter tâu
 jâ hâr kjænt monga pibla – ja , å jâ hâr kjøsst dom âu .
 Mæn vår ded va å når ded va , å væm ded vaj â så
-så va ’ d ilæl di samme som jâ ømmer tænjte på :
+så va’ d ilæl di samme som jâ ømmer tænjte på :
 Ded va piblana i Bolsker å Nylârs å Hællipær
 ded va piblana dærjimma , for jâ kjænjer injen bær
 å di e nætta , di e lætta som di sjinjara di e
@@ -189,12 +189,12 @@ Jylatræd å hænta
 for hanj løvver å hanj hâr
 foje tid å vænta .
 ræjti stort ded varra må
-helt te tijled op ska ’ d nå
+helt te tijled op ska’ d nå
 lyz å korra granja
 monga kâgemanja
 Bællana som læja sjyjl
 glømma rent å tælla
- ”tra-la-la i mârn e ’ d jyl ”
+ ”tra-la-la i mârn e’ d jyl ”
 ajle e som bælla .
 Jyln hon vârer ver te Knud
 Vess hon inte drives ud
@@ -202,7 +202,7 @@ Te fâstelann jâ troer –
 Sporr mæn bæstemoer .
 Jâ hedder Andris Koffed , jâ e fiskara i Vång
 vær mârn jâ riggar bådinj te å får maskin i gång .
-Å når jâ sætter garned ud , så bler ’ ed fujlt mæst strajs
+Å når jâ sætter garned ud , så bler’ ed fujlt mæst strajs
 me kløpfesk å me spæjesijl å røjad ål å lajs .
 Min konna hedder Âna , hon e vældij go ver maj
 hon pakkar mâdakarpan vær gång jâ ska tâ på vaj .
@@ -284,7 +284,7 @@ Då vi så nåde Ystâ , i lann vi skujle gå
 De kunje inte lâ saj gjorra – ingijnj kunje stå
 For di lo helan gå å di lo halvan gå
 å tâu så trille-fira stora sypa âuan på .
-Så tâu vi me tebâga , å vedd ni va di sâ?
+Så tâu vi me tebâga , å vedd ni va di sâ ?
 en udlannsreza som dænj hær , må snârt ijæn vi tâ
 å vi la ’ r helan gå å vi la ’ r halvan gå
 å får enj trille-fira stora sypa âuan på .
@@ -316,7 +316,7 @@ Bârhâudad , kjiwåd me krøjlua bojser , ble hanj te grin å ble kalt for enj 
 å mæns hon svingde sinj søndia krop , trok hanj så kjiwåd sinj bojserem op .
 Henry frå brøgsen hanj dajnjste me Frida – Peter va nagger å galinj å sur .
  ”Jâ vil på kvinjfolkafanskawed sjida ” , sâ hanj å gjikk runjt i bøjn saj en tur .
-Væm vad hanj møtte på Doktarabakkanj? – Frida me Henrysa arm omkring nakkanj !
+Væm vad hanj møtte på Doktarabakkanj ? – Frida me Henrysa arm omkring nakkanj !
 Fost ble hanj paf , så hanj svalte sinj skro , så ble han joner , hanj ville se blo !
 Peter gâ Henry enj donner i skrâtan , så hanj kvab om å ble ligjgjenes dær .
 Spottade Frida i fjæsed – ”dinj sâtan ! bølinj stå i daj din skabbua mær ! ”
@@ -735,7 +735,7 @@ Enj jyjlkat løvver åuer væinj å sajer injen tinj .
 I Jons Kapæl ska jyjlamæssan hojles klokkan tre ,
 i Håzle gå vi vos en tur a Jyjlagåda te .
 Så gjef vi vos ad Røsen te i Lyzakløppans sjær .
-Mon vi kanj båga kåga i dænj torra uninj dær?
+Mon vi kanj båga kåga i dænj torra uninj dær ?
 Vi lista ner ad Lista te å serf " Svårta Mujl " ,
 gujigøbbana di dajnsa runt å possa dorra gujl .
 A seddan vånka vi omkrænj så rast frå stå te stå ,
@@ -774,3 +774,8 @@ Men då ja så fortalde te bonijn om hans tjyr ,
 Så tæjnte hajn nok livel , denj læjn kajn ble for dyr .
 Å tjyrijn fikj en lænkja om halsijn te enj bom .
 Der sto hanj så å lævde godt , te pølsetiden kom ! 
+Rattijt Borrinjholmsk kanj jâ inte saja ded é , Ded va de gamle som kunje snakka ekta Borrinjholmsk . Demmeså !
+Hær læggjes gjenveja te borrinjholmska klip å anjed om borrinjholmsk .
+Borrinjholmsk kanj vara svært å forstå .
+Ska vi âga til Rønna ?
+Ded va akkorât på tide .
