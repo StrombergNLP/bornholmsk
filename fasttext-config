@@ -1,0 +1,1 @@
+fasttext skipgram -input ~/dev/bornholmsk/bornholmsk.txt -output /datasets/bornholmsk.300d -minCount 1 -minn 2 -maxn 5 -dim 300
