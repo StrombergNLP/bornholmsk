@@ -112,6 +112,8 @@ source_vecs.apply_transform(transform)
 if args.insert:
     for insert in to_insert:
         new_source, anchor = insert
+        if ' ' in new_source:
+            continue
         #print(' adding:', new_source, end=" ")
         source_vecs.insert(new_source, target_vecs[anchor], vary=True)
         #print(' new shape:', source_vecs.embed.shape)

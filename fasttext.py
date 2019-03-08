@@ -48,6 +48,8 @@ class FastVector:
             self.apply_transform(transform)
 
     def insert(self, word, vector, vary=False):
+        if ' ' in word or '\t' in word:
+            return False
         insert_id = self.embed.shape[0] # the shape contains the next offset ID
         self.word2id[word] = insert_id
         self.id2word.append(word)
