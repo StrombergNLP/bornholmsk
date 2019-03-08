@@ -82,6 +82,9 @@ if args.biling_dict:
         if not line:
             continue
         words = line.split('\t')
+        if len(words) != 2:
+            print('entry with |args|≠2:', line)
+            continue
         src_word, target_word = map(str.strip, words)
         #TODO: handle OOV, eh
         if src_word in source_words and target_word in target_words:
