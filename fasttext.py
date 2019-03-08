@@ -47,10 +47,13 @@ class FastVector:
             print('Applying transformation to embedding')
             self.apply_transform(transform)
 
-    def insert(self, word, vector):
+    def insert(self, word, vector, vary=False):
         insert_id = self.embed.shape[0] # the shape contains the next offset ID
         self.word2id[word] = insert_id
         self.id2word.append(word)
+        # useful to have slight noise: this means 1:many translations won't all collide
+        if vary:
+            vector = vector + np.random.normal(0, 0.01, self.embed.shape[1])
         self.embed = np.concatenate((self.embed, [vector]), axis=0)
         self.n_words = self.embed.shape[0] #.. and now contains the new number of words
         return insert_id # return the ID of the recently inserted word

@@ -113,7 +113,7 @@ if args.insert:
     for insert in to_insert:
         new_source, anchor = insert
         #print(' adding:', new_source, end=" ")
-        source_vecs.insert(new_source, target_vecs[anchor])
+        source_vecs.insert(new_source, target_vecs[anchor], vary=True)
         #print(' new shape:', source_vecs.embed.shape)
     print('inserted', len(to_insert), 'words')
 
