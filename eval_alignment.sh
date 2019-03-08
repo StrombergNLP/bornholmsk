@@ -8,6 +8,7 @@ p = argparse.ArgumentParser()
 p.add_argument('-s', '--source', help='the embeddings to be adjusted', required=True)
 p.add_argument('-t', '--target', help='the destination embedding space', required=True)
 p.add_argument('-d', '--biling_dict', help='path to bilingual dict TSV file')
+p.add_argument('-v', '--verbose', help='give extra output', action="store_true")
 args = p.parse_args()
 
 print('loading vecs')
@@ -37,8 +38,9 @@ for line in open(args.biling_dict, 'r'):
 	target_vec = target_vecs[target_word]
 	vecsim = FastVector.cosine_similarity(source_vec, target_vec)
 
-	print('vecsim:', source_word, target_word, vecsim)
+	if args.verbose:
+		print(' vecsim:', source_word, target_word, vecsim)
 
 	vecsims.append(vecsim)
 
-print('mean vecsim:', sum(vecsims) / len(vecsims))
+print('mean vecsim:', sum(vecsims) / len(vecsims), 'entries used:', len(vecsims))
