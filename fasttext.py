@@ -47,6 +47,14 @@ class FastVector:
             print('Applying transformation to embedding')
             self.apply_transform(transform)
 
+    def insert(self, word, vector):
+        insert_id = self.embed.shape[0] # the shape contains the next offset ID
+        self.word2id[word] = insert_id
+        self.id2word.append(word)
+        self.embed = np.concatenate((self.embed, [vector]), axis=0)
+        self.n_words = self.embed.shape[0] #.. and now contains the new number of words
+        return insert_id # return the ID of the recently inserted word
+
     def apply_transform(self, transform):
         """
         Apply the given transformation to the vector space
