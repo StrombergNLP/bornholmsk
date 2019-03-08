@@ -131,7 +131,10 @@ Piblan plukkada en akselivång te sinj moer
 Pigen plukkede en kornblomst til sin mor
 
 Ded e al va jâ sajer
-Det er ægte/rigtig vad jeg siger
+Det er rigtig vad jeg siger
+
+Ded e al va jâ sajer
+Det er ægte vad jeg siger
 
 Hanj va ful å allera
 Han var fuld af beundring
@@ -163,7 +166,7 @@ Børnene legede i en æblehave
 Hon e aggenant.
 Hun er smuk. Hun er prægtig
 
-E`ed enj akkerdera ?
+E`ed enj akkerdera?
 Er det en aftale?
 
 Hanj va mæ allians
@@ -2834,7 +2837,7 @@ Hon e enj piblastabba
 Hun er en pige på 16-17 år
 
 For pilalakken da
-For "pokker" da
+For pokker da
 
 Fâr kunje ikkje finna sinj pjugg
 Far kunne ikke finde sin tobakspibe
@@ -3076,7 +3079,7 @@ Fiskeren ville sælge sild til mor
 Fâr villa hâ enj ren sjârta på
 Far ville have en ren skjorte på
 
-Sedan ed sjavs kanj enj ikkje rajna  me
+Sedan ed sjavs kanj enj ikkje rajna me
 Sådanne en pjattet person kan jeg ikke regne med
 
 Sikkje noggad sjavs å saja
