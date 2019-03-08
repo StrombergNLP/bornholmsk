@@ -93,7 +93,7 @@ bia	vente
 bidda	stykke, bid af brød eller andet
 binja	binde
 bjabba	kæfte op
-bjæda	et bed
+bjæda	bed
 bjælan	lille galsindet hund
 bjælan	snakkesalig sur kone
 bjær	bjerg
@@ -260,7 +260,7 @@ dömnijng	mening, omdømme
 dönna	torden
 dönnasjy	tordensky
 döppa	dyppelse, sauce
-dössen	et dussin
+dössen	dussin
 dalkes	person der går sløvt
 dallbâg	forside på svinets hals
 dâmajn	morgentøvejr
@@ -290,7 +290,7 @@ ellestingeren	de underjordiske konge
 en re	beplantet mark skel
 enj dundra	kraftig kvindfolk
 enj gjera	det nederste af en skjorte
-enj gjønkel	bylt
+jønkel	bylt
 enj harra	4 fed garn
 enj niva	så meget der kan være mellem 2 fingre
 enj sagga	langsomt kvindfolk
@@ -299,14 +299,14 @@ enj spåmanj	uverhæftig person
 enjhijlu	en hel masse
 et grøssen	144 stykker
 enj bonaryna	en gammel so
-ejn dæktara	en løgnhals
-enj løvvenasjytt	en vagabond
+dæktara	løgnhals
+løvvenasjytt	vagabond
 fajlenes fod	gravid
 faninj	fanden
 faninjatromma	rappenskralde
 fanjkinj	fanden
 fâr	far
-fara	fare (afsted)
+fara	fare
 fâra	fare
 farres	larme uregerligt
 farru (er)	lige ved
@@ -326,7 +326,7 @@ fiza	lydløs prut
 fjællstaun	nattergal
 flabbatas	kæphøj / fræk
 flabbatass	flab, uforskammet person
-flakkar	en fod
+flakkar	fod
 flarka	kradse i jorden
 flarka	spjætte med benene
 flarra	rive itu
@@ -696,7 +696,7 @@ kâge	kage
 kaja	alikke (fugl)
 kajla	kalde
 kaklun (enj)	kakkelovn
-kammers	et kammer
+kammers	kammer
 kanj	kan
 kanj	kan
 kantofla	kartoffel
@@ -780,8 +780,9 @@ konna	kone
 konner	koner
 kopattaryzma	kaprifolium
 korera	helbrede
-korr (enj)	kurv
-kos (enj)	kurs, retning
+korr	kurv
+kos	kurs
+kos	retning
 koss	kors
 koss i lidemaj væl	kors
 koss i læl	kors
@@ -805,8 +806,8 @@ kun	først
 kunja	kunne
 kunje	kunne
 kuta	kludre
-kæmpa (enj)	kæmpe
-kåjl (er)	kold
+kæmpa	kæmpe
+kåjl	kold
 kåjlebøtta	forlæns kolbøtte
 kaffedrivara	snaps efter kaffe
 kalladajns	mælke ret
@@ -890,13 +891,13 @@ læje	lige
 lælle	varsomt, sagte
 lær	læder
 læwa	leve
-læwa (enj)	læbe
+læwa	læbe
 læza	læse
 læzebælli	konfirmand
 løddabojser	hængerøvs bukser
 løjne	læ
 løjta	lygte
-løn (er)	lodden
+løn	lodden
 løtt	byrde, løft, tungt løft
 løva	løbe
 løvenasjøtt	ustyrlig
@@ -928,7 +929,7 @@ mâdatid	spisetid
 madk	orm, larve
 madkådinj	mølædt
 mâdmijl	gavmild med mad
-mâdurtahawa	køkenhave
+mâdurtahawa	køkkenhave
 mâdurter	grøntsager
 magga sammen	sætte noget sammen, f.eks et brev
 majt	magt
@@ -978,7 +979,7 @@ milkatistel	løvetand (blomst)
 moffla	prygle, slå løs på
 mollesjøsk (er)	surmulende, deprimeret
 mollèt	tabel (lille, stor)
-mollevet	en dans (menuet)
+mollevet	menuet
 mozzika	skovmærke (plante)
 møjdrøssa	urenligt kvindfolk
 møllenakka	klippeodde ved svaneke
@@ -1206,7 +1207,7 @@ sijl	sild
 sjârta	skjorte
 sjavs	en person, der pjatter og snakker overfladisk
 sjavs	vrøvl
-sje	en ske
+sje	ske
 sje	ske, finde sted
 sjefta	skifte
 sjemodi	sørgmodig, trist
@@ -1227,13 +1228,13 @@ sjøga	sygdom
 sjøkar	sømand
 sjørt	skørt
 skâ	skade, komme til skade
-skadda	en skade (fugl)
+skadda	skade
 skakhâzer	stikpille, spydigheder
 skâl	skældsord om dyr eller mennesker
 skâla	skræl
 skâla	at skule
 skallra	rasle med noget
-skalra (einj skalra)	en sladrekælling
+skalra	sladrekælling
 skâr	skær
 skarnajtu (er)	upålidelig
 skobba	skubbe
@@ -1386,14 +1387,14 @@ sæwlilja	gul eller blå iris
 tâ	tag  (tage noget)
 tâ klauninj	hænge sig
 taddra	sludre
-tâg	et tag
+tâg	tag
 tagla	gnave, bide
 taja	tie
 tanj	tand
 tanjvark	tandpine
 te res	parat
 tebâge	tilbage
-tefres (ser)	tilfreds
+tefres	tilfreds
 temâd	dessert
 tetâbælli	plejern
 tijle	loft
@@ -1444,7 +1445,7 @@ ulokka	ulykke
 unøtta	vranten
 urtakåst	blomsterbuket
 ustogga	ustadig
-ulabbelit	hæsligt (om vejret)
+ulabbelit	hæsligt
 unbobba	risengrynskage
 unjarna	de underste
 unnjantag	aftægt
@@ -1456,11 +1457,12 @@ vajlabøtta	baglæns kolbøtte
 vajta	vinke
 vâna	vana
 varkan	hverken
-varpa	kaste, smide
+varpa	kaste
+varpa	smide
 varra	være
-varra	være, at være
 vâun	vogn
-vâuna	vågne - vække
+vâuna	vågne
+vâuna	vække
 vâusa	vokse
 vâuta	vogte
 vavs	sludder
@@ -1506,8 +1508,9 @@ vrønna	vrinske (hest)
 værkna	fremstille tøj
 værsjidaurt	rosen-geranium
 vårspring	en slags udslæt
-vronginj	fuld. beruset. forvirret
-bornholmsk	dansk
+vronginj	fuld
+vronginj	beruset
+vronginj	forvirret
 ynjstinj	yngste
 ynka	enkelt
 ynra	yngre
@@ -1517,7 +1520,7 @@ ynra	yngre
 æjluabid	formiddagsmad
 æjnkja	enke
 ældra	ældre
-ænjastjærna	en forglemmigej
+ænjastjærna	forglemmigej
 ænna	bagdel
 ær	ar
 ærne	ærinde
@@ -1529,7 +1532,7 @@ ynra	yngre
 ættelækj	sidste del af brændevinsbrænding
 øgga	uge
 ønte	ikke
-øra	et øre
+øra	øre
 ørada	ørred
 å	og
 åbârad	afslidt
@@ -1550,13 +1553,13 @@ ynra	yngre
 âgerkål	agersennep
 âgerlogg	ager-gåseurt
 âgerlogg	agermunk
-âgerlogg	kamille, lugtløs
+âgerlogg	kamille
 âgermunka	blåhat
 âgermunka	skabiose
-âger-pænjsurt	pengeurt, alm.
+âger-pænjsurt	pengeurt
 âgersølkje	kokkeurt
 âgersølkje	kornrose
-âgersølkje	valmue, vild
+âgersølkje	valmue
 agorka	agurk
 agrimonika	agermåne
 âhorn	ahorn
@@ -1577,15 +1580,16 @@ balsompil	balsampil
 barkenaroa	gulerod, vild
 benedikturt	engnellikerod
 benvedje	benved
-bittersøda	natskygge, bittersød
+bittersøda	natskygge
+bittersøda	bittersød
 bjynk	bynke
-bjøgg, vijlt	byg, gold
+bjøgg	byg
 blobøj	blodbøg
-blomstersæw	iris, gul
+blomstersæw	iris
 blorod	tormentil
 blæreklæwer	jordbær-kløver
 blåbær	korbær
-blåklæwer	anemone, blå
+blåklæwer	anemone
 blåklæwer	blåkløver
 blåbønna	cikorie
 bojseknapp	kornokseøje
@@ -1600,7 +1604,7 @@ borra	burre, alle
 borrerod	burresnerre
 bovedde	boghvede
 bozbom	buxbom
-brajna	bregne, alle arter
+brajna	bregne
 brânsurt	gøgeurt
 brommelbær	brombær
 brualyz	brudelys
@@ -1612,22 +1616,22 @@ byjlenbær	blåbær
 bækkja-statât	vandmynte
 bæwerasp	bævreasp
 bæwergræz	hjertegræs
-bødkarasæw	iris, gul
+bødkarasæw	iris
 bøj	avnbøg
 bøj	bøg
 bøllenbær	blåbær
 bånpil	båndpil
-dâlabær	brombær (på chrø.)
+dâlabær	brombær
 dâuestol	kornblomst
-dâueurt	dueurt, lådden
+dâueurt	dueurt
 dâueurt	gederams
 dâuevâun	venusvogn
 dijl	dild
 dikkagræz	vejbred, lancetblad.
 draphawra	draphavre
 dæwra	dodder
-dønæjlla, rø	tvetand, rød
-dønæjlla, vid	døvnælde
+dønæjlla	tvetand
+dønæjlla	døvnælde
 døsvâmp	giftig svamp
 dårtelilja	dorthealilje
 eddernæjla	brændenælde
@@ -1635,7 +1639,7 @@ efoi	vedben
 enetappa	enebuske
 faninjs åbidd	djævelsbid
 fâulanæbb	fladbælg, små
-fâulanæbb	kællingetand, alm.
+fâulanæbb	kællingetand
 fâularompa	aks-ærenpris
 fâularompa	vejbred, glat
 fâulavikka	musevikke
@@ -1651,14 +1655,14 @@ floilsgræz	fløjlsgræs
 flojlskablomma	fløjlsblomst
 flojlstop	dunhammer
 flouehaura	flyvehavre
-forglimmiej	forglemmigej, alle
+forglimmiej	forglemmigej
 førr	fyr
 gâdeblomma	gåseurt
-gâdeblomma	okseøje, hvid
+gâdeblomma	okseøje
 galinjabær	fruebær
-gallra	hamp, hanplante
-galnabær	natskygge, bittersød
-galtaspragla	mjødurt, knoldet
+gallra	hamp
+galnabær	natskygge
+galtaspragla	mjødurt
 galtaspragla	stenbræk
 garsa	rug-hejre
 gjeddaløj	skovløg
@@ -1668,17 +1672,17 @@ gjylenlakka	gyldenlak
 gjøjamâd	skovsyre
 gjøjnamâd	gøgemad
 gjøjnamâd	surkløver
-glimmiej	forglemmigej, alle
+glimmiej	forglemmigej
 grânepæra	grankogle
 grânesjæwer	grannåle
 grizagræz	hjertegræs
-græzgarsa	hejre, blød
+græzgarsa	hejre
 græzløj	purløg
-græznelka	nellike, lille
+græznelka	nellike
 græzrod	kvikgræs
-gråbone	bynke, grå
-gråbønna	knopurt, stor
-grånakka	knopurt, stor
+gråbone	bynke
+gråbønna	knopurt
+grånakka	knopurt
 gråpil	hvidpil
 gråtijstel	ager-tidsel
 gråtijstel	pigget tidsel
@@ -1693,7 +1697,7 @@ hâraklæwer	harekløver
 harrens hænner	gøgeurt, plettet
 hattbær	bakke-jordbær
 hattbær	jordbær, vilde
-hawentorn	hvidtjørn, alm.
+hawentorn	hvidtjørn
 hâzzel	hassel
 hik	hæg
 hinjbæratorn	hindbær
@@ -1739,7 +1743,7 @@ kattafod	fladbælg, gul
 kattafod	rundbælg
 kattaiven	forglemmigej, små
 kattaiven	ærenpris, tveskægget
-kattaost	katost, alm.
+kattaost	katost
 kattapis	scilla
 kattarompa, blå	slangehoved
 kattatarm	potentil, krybende
@@ -1788,7 +1792,7 @@ kåjlaurt	hundeviol
 lakoja	levkøj
 lammaørn	kongelys, alle
 lark	lærk
-larkelin	spergel, alm.
+larkelin	spergel
 lausurt	gul okseøje
 leddagræz	padderokke
 leddamunk	ager padderokke
@@ -1861,12 +1865,12 @@ postinokka	pastinak
 pottmælka	hyacint
 præstakrawa	matrem
 præstakrawa	pinselilje
-præstaluz	agermåne, alm.
+præstaluz	agermåne
 præstaluz	burresnerre
 puggemâd	andemad
 pyretrom	matrem
 pænjsurt	pengeurt
-pænjsurt	skjaller, stor
+pænjsurt	skjaller
 pærsla	persille
 pærsla, vijl	hundepersille
 pøvverrod	peberrod
@@ -1879,11 +1883,11 @@ riddarasporra	korn-ridderspore
 rinjormaurt	vortemælk
 risetas, resetas	reseda
 rodagræz	kvikgræs
-rompehawra	havre, pur
+rompehawra	havre
 ræwaløng	rævling
 ræwarompa	ulvefod
 røklæwer	rødkløver
-røpil	pil, pommersk
+røpil	pil
 røpstorn	ribsbusk
 sallvaia	eng-salvie
 saweknopp	rosengalle
@@ -1928,7 +1932,7 @@ stavrløj	sandløg
 stenbrigna	engelsød
 stikkelsbæratorn	stikkelsbær
 stikketijstel	tidsel, lav
-stolt henrik	brandbæger, alm.
+stolt henrik	brandbæger
 stor-vie	gråpil
 strânløj	engelskgræs
 strântistel	strand-mandstro
@@ -1968,7 +1972,7 @@ tøttebær	tyttebær
 urtakåst	blomsterbuket
 vajbrødblâ	vejbred, glat
 valriâna	læge-baldrian
-vannanemon	vandranunkel, alm.
+vannanemon	vandranunkel
 vannpil	skørpil
 vannpostinakka	mærke, bredbladet
 vannpøvver	ranunkel, nedbøjet
@@ -1992,7 +1996,8 @@ vårtorn	korsved
 vårtorn	vrietorn
 æj	eg
 æjnjalogg	okseøje, hvid
-æl, ælletræ	rødel
+æl	rødel
+ælletræ	rødel
 ællekrak	ellekrat
 ælnerod	læge-alant
 ængeltorn	æblerose
@@ -2002,7 +2007,7 @@ vårtorn	vrietorn
 ænjastjærna	forglemmigej
 ænjasølkje	trævlekrone
 ænjklokka	eng-nellikerod
-ænjpænj	skjaller, stor
+ænjpænj	skjaller
 ænjsjær	engskær
 ænjzamunka	djævelsbid
 ævja, ædja	tang (opdrevet)
