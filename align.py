@@ -45,34 +45,65 @@ def learn_transformation(source_matrix, target_matrix, normalize_vectors=True):
     # return orthogonal transformation which aligns source language to the target
     return np.matmul(U, V)
 
+import argparse
+p = argparse.ArgumentParser()
+p.add_argument('-s', '--source', help='the embeddings to be adjusted', required=True)
+p.add_argument('-t', '--target', help='the destination embedding space', required=True)
+p.add_argument('-o', '--output', help='output vector filename', required=True)
+p.add_argument('-u', '--unsup', help='use unsupervised alignments?', action="store_true")
+p.add_argument('-d', '--biling_dict', help='path to bilingual dict TSV file (source target)')
+args = p.parse_args()
+
 print('load vectors')
-bo_dictionary = FastVector(vector_file='/datasets/bornholmsk.300d.vec')
-en_dictionary = FastVector(vector_file='/datasets/crawl-300d-2M-subword.vec')
+source_vecs = FastVector(vector_file=args.source)
+target_vecs = FastVector(vector_file=args.target)
 
-en_vector = en_dictionary["dear"]
-bo_vector = bo_dictionary["skat"]
-print('vecsim: dear, skat')
-print(FastVector.cosine_similarity(en_vector, bo_vector))
+source_words = set(source_vecs.word2id.keys())
+target_words = set(target_vecs.word2id.keys())
 
-print('build bilingual dict')
-bo_words = set(bo_dictionary.word2id.keys())
-en_words = set(en_dictionary.word2id.keys())
-overlap = list(bo_words & en_words)
-bilingual_dictionary = [(entry, entry) for entry in overlap]
+#en_vector = target_vec["dear"]
+#bo_vector = source_vecs["skat"]
+#print('vecsim: dear, skat')
+#print(FastVector.cosine_similarity(en_vector, bo_vector))
+
+bilingual_dictionary = []
+
+if args.unsup:
+    print('build unsup bilingual dict')
+    overlap = list(source_words & target_words)
+    new_entries = [(entry, entry) for entry in overlap]
+    print('found', len(new_entries), 'unsupervised alignments')
+    bilingual_dictionary += new_entries
+
+if args.biling_dict:
+    words_added = 0
+    for line in open(args.biling_dict, 'r'):
+        line = line.strip()
+        if not line:
+            continue
+        words = line.split('\t')
+        src_word, target_word = map(str.strip, words)
+        #TODO: handle OOV, eh
+        if src_word in source_words and target_word in target_words:
+            bilingual_dictionary += [(src_word, target_word)]
+            words_added += 1
+    print('found', words_added, 'supervised alignments')
+
+
 
 # form the training matrices
 print('form training matrices')
 source_matrix, target_matrix = make_training_matrices(
-    bo_dictionary, en_dictionary, bilingual_dictionary)
+    source_vecs, target_vecs, bilingual_dictionary)
 
 # learn and apply the transformation
 print('transform')
 transform = learn_transformation(source_matrix, target_matrix)
-bo_dictionary.apply_transform(transform)
+source_vecs.apply_transform(transform)
 
-en_vector = en_dictionary["dear"]
-bo_vector = bo_dictionary["skat"]
-print('vecsim: dear, skat')
-print(FastVector.cosine_similarity(en_vector, bo_vector))
+#en_vector = target_vec["dear"]
+#bo_vector = source_vecs["skat"]
+#print('vecsim: dear, skat')
+#print(FastVector.cosine_similarity(en_vector, bo_vector))
 
-bo_dictionary.export('bornholmsk.aligned.vec')
+source_vecs.export(args.output)
