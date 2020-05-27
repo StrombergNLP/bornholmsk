@@ -99,5 +99,12 @@ cat resources/women >> $DB_TRAIN
 cat resources/geo >> $DA_TRAIN
 cat resources/geo >> $DB_TRAIN
 
+# package up the parallel resources
+zip parallel.da.da-bornholm.zip parallel.d*
+
+
 # next step: get a glove encoding on DB_NOISY
 # use DB_CLEAN for normalisation
+
+
+
