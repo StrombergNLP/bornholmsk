@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
+import argparse
 import numpy as np
+import os
+import pickle
 from fasttext import FastVector
 
 # from https://stackoverflow.com/questions/21030391/how-to-normalize-array-numpy
@@ -45,7 +48,18 @@ def learn_transformation(source_matrix, target_matrix, normalize_vectors=True):
     # return orthogonal transformation which aligns source language to the target
     return np.matmul(U, V)
 
-import argparse
+def cached_load_vecs(filename):
+    if os.path.isfile(filename + '.pickle'):
+        return pickle.load(open(filename + '.pickle', 'rb'))
+    else:
+        print(' slow read for', filename)
+        vecs = FastVector(vector_file=filename)
+        print(' caching pickle for', filename)
+        try:
+            pickle.dump(vecs, open(filename + 'pickle', 'wb'))
+        except:
+            print(' ..failed')
+
 p = argparse.ArgumentParser()
 p.add_argument('-s', '--source', help='the embeddings to be adjusted', required=True)
 p.add_argument('-t', '--target', help='the destination embedding space', required=True)
@@ -56,8 +70,9 @@ p.add_argument('-i', '--insert', help='insert missing aligned words from dict', 
 args = p.parse_args()
 
 print('load vectors')
-source_vecs = FastVector(vector_file=args.source)
-target_vecs = FastVector(vector_file=args.target)
+
+source_vecs = cached_load_vecs(args.source)
+target_vecs = cached_load_vecs(args.target)
 
 source_words = set(source_vecs.word2id.keys())
 target_words = set(target_vecs.word2id.keys())
